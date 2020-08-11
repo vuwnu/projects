@@ -4,5 +4,5 @@
   "config": "/",
   "files": "assets",
   "theme": "default",
-  "layout": 0
+  "layout": "0"
 }
