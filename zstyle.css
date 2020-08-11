@@ -6,9 +6,10 @@
   --x-axis-page-align: center;
   --align-text: center;
 
-  --primary-color: #bbb;
-  --secondary-color: darkgrey;
-  --tertiary-color: lime;
+  --color-text: #dddddd;
+  --color-main-1: #222;
+  --color-main-2: darkgrey;
+  --color-main-3: lime;
   --background-color: #222;
   --background-border-color: #1d1d1d;
   --border-bg-color: #2e2e2e;
