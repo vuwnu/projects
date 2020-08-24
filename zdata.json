@@ -1,8 +1,6 @@
 {
   "siteName": "Vuwnu Project Directory",
   "description": "Directory for all projects worked on by Vuwnu",
-  "config": "/",
-  "files": "assets",
   "theme": "default",
   "layout": "0"
 }
