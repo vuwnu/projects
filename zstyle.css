@@ -22,12 +22,6 @@
 
   --background: transparent;
 
-  /* Border */
-  --border-type: solid;
-  --border-thickness: 0px;
-  --border-radius: 0px;
-  --border-color: #333;
-
   /* Scrollbar */
   --scrollbar-width: 5px;
   --scrollbar-track: #111;
