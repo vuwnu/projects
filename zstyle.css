@@ -1,7 +1,5 @@
 :root {
-
   --margin: 5px;
-
   --y-axis-page-align: center;
   --x-axis-page-align: center;
   --align-text: center;
@@ -16,9 +14,6 @@
   --color-main-1: #222;
   --color-main-2: #343434;
   --color-main-3: lime;
-  --background-color: #222;
-  --background-border-color: #1d1d1d;
-  --border-bg-color: #2e2e2e;
 
   --background: transparent;
 
