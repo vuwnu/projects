@@ -1,2 +1,2 @@
 # Vuwnu Project Directory
-directory for all projects created by Vuwnu
+a directory site for cataloging all projects created under the Vuwnu name
