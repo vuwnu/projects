@@ -36,3 +36,7 @@
   --font-size: var(--responsive-font-size);
 
 }
+
+main {
+  background: 0;
+}
