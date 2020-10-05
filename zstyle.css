@@ -1,26 +1,17 @@
 :root {
-  --margin: 5px;
   --y-axis-page-align: center;
   --x-axis-page-align: center;
   --align-text: center;
 
   --color-accent-1: #aaa;
-  --color-accent-2: lime;
-  --color-accent-3: limegreen;
-  --color-accent-4: limegreen;
 
-  --color-logo:white;
+  --color-logo: white;
   --color-text: #dddddd;
   --color-main-1: #222;
   --color-main-2: #343434;
   --color-main-3: lime;
 
   --background: #111;
-
-  /* Scrollbar */
-  --scrollbar-width: 5px;
-  --scrollbar-track: #111;
-  --scrollbar-handle: grey;
 
   /* Selection */
   --selection-background: lightblue;
@@ -33,11 +24,4 @@
   --font-secondary: 'Open Sans', sans-serif;
   --font-header: 'Open Sans', sans-serif;
   --font-logo: 'MuseoModerno', cursive;
-  --font-size: var(--responsive-font-size);
-
-}
-
-main {
-  background: 0;
-  border: 0;
 }
